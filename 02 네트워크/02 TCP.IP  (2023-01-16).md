@@ -13,10 +13,11 @@
 <br>
 DHCP(Dynamic Host Configuration Protocol)란 호스트의 IP주소와 각종 TCP/IP 프로토콜의 기본 설정을 클라이언트에게 자동적으로 제공해주는 프로토콜입니다. 
 DHCP는 다음과 같은 IP 주소 할당 과정을 거칩니다.
+<br>
 1. DHCP DISCOVER: 브로드캐스트 통신을 통해 클라이언트가 DHCP 서버를 찾습니다.
-2. DHCP OFFER: DHCP 서버가 응답하며 네트워크 정보를 함께 제공합니다.
-3. DHCP REQUEST: 2대 이상의 DHCP 서버가 DHCP OFFER를 보냈을 경우, 클라이언트는 브로드캐스트 통신을 통해 하나의 DHCP 서버를 선택하고 네트워크 정보를 요청합니다.
-4. DHCP ACK: DHCP 서버가 요청을 수락하고 네트워크 정보를 제공합니다.
+3. DHCP OFFER: DHCP 서버가 응답하며 네트워크 정보를 함께 제공합니다.
+5. DHCP REQUEST: 2대 이상의 DHCP 서버가 DHCP OFFER를 보냈을 경우, 클라이언트는 브로드캐스트 통신을 통해 하나의 DHCP 서버를 선택하고 네트워크 정보를 요청합니다.
+6. DHCP ACK: DHCP 서버가 요청을 수락하고 네트워크 정보를 제공합니다.
 <br><br><br>
 
 ## 💻 ARP 프로토콜에 대해 설명해주세요. 동작원리도 간단하게 설명해주세요. (유리)
