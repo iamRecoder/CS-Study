@@ -85,28 +85,28 @@ _"같이 가는 길이 혼자 가는 길보다 더 멀리 간다."_
   </tr>
 <tr>
     <td rowspan="8"><b>자료구조 & 알고리즘</b><br>(스터디장: 김예지)</td>
-    <td><a href="">01. 검색 알고리즘(선형 검색, 이진 검색, 해쉬) (2023-02-03)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/01.%20%EA%B2%80%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20(2023-02-03).md">01. 검색 알고리즘(선형 검색, 이진 검색, 해쉬) (2023-02-03)</a></td>
 </tr>
 <tr>
-    <td><a href="">02. 스택과 큐 (2023-02-06)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/02.%20%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90%20(2023-02-06).md">02. 스택과 큐 (2023-02-06)</a></td>
 </tr>
 <tr>
-    <td><a href="">03. 재귀 알고리즘 (2023-02-07)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/03.%20%EC%9E%AC%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20(2023-02-07).md">03. 재귀 알고리즘 (2023-02-07)</a></td>
 </tr>
 <tr>
-    <td><a href="">04. 정렬 알고리즘1 (2023-02-08)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/04.%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%981%20(2023-02-08).md">04. 정렬 알고리즘1 (2023-02-08)</a></td>
 </tr>
 <tr>
-    <td><a href="">05. 정렬 알고리즘2 (2023-02-09)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/05.%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982%20(2023-02-09).md">05. 정렬 알고리즘2 (2023-02-09)</a></td>
 </tr>
 <tr>
-    <td><a href="">06. 문자열 검색 (2023-02-10)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/06.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%80%EC%83%89%20(2023-02-10).md">06. 문자열 검색 (2023-02-10)</a></td>
 </tr>
 <tr>
-    <td><a href="">07. 리스트 (2023-02-13)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/07.%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(2023-02-13).md">07. 리스트 (2023-02-13)</a></td>
 </tr>
 <tr>
-    <td><a href="">08. 트리 (2023-02-14)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/03%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/08.%20%ED%8A%B8%EB%A6%AC%20(2023-02-14).md">08. 트리 (2023-02-14)</a></td>
 </tr>
 
 <tr>
