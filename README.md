@@ -110,8 +110,17 @@ _"같이 가는 길이 혼자 가는 길보다 더 멀리 간다."_
 </tr>
 
 <tr>
-    <td><b>데이터베이스</b><br>(스터디장: 황소연)</td>
-    <td></td>
+    <td rowspan="4"><b>데이터베이스</b><br>(스터디장: 황소연)</td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/04%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/01.%20DBMS%20%EA%B0%9C%EC%9A%94%20(2023-02-20).md">01. DBMS 개요 (2023-02-20)</a></td>
+</tr>
+<tr>
+    <td><a href="">02. 기본쿼리문, 인덱스, 정규화 (2023-02-21)</a></td>
+</tr>
+<tr>
+    <td><a href="">03. 트랜젝션, 이상, 병행제어 (2023-02-22)</a></td>
+</tr>
+<tr>
+    <td><a href="">04. Redis, DB Lock, 장애와 회복기법 (2023-02-23)</a></td>
 </tr>
 <tr>
     <td><b>도커 & 쿠버네티스</b><br>(스터디장: 지유리)</td>
