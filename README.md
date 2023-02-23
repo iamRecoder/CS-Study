@@ -114,13 +114,13 @@ _"같이 가는 길이 혼자 가는 길보다 더 멀리 간다."_
     <td><a href="https://github.com/2214yj/CS-Study/blob/main/04%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/01.%20DBMS%20%EA%B0%9C%EC%9A%94%20(2023-02-20).md">01. DBMS 개요 (2023-02-20)</a></td>
 </tr>
 <tr>
-    <td><a href="">02. 기본쿼리문, 인덱스, 정규화 (2023-02-21)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/04%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/02.%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%2C%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%2C%20%EC%A0%95%EA%B7%9C%ED%99%94%20(2023-02-21).md">02. 기본쿼리문, 인덱스, 정규화 (2023-02-21)</a></td>
 </tr>
 <tr>
-    <td><a href="">03. 트랜젝션, 이상, 병행제어 (2023-02-22)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/04%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/03.%20%ED%8A%B8%EB%9E%9C%EC%A0%9D%EC%85%98%2C%20%EC%9D%B4%EC%83%81%2C%20%EB%B3%91%ED%96%89%EC%A0%9C%EC%96%B4%20(2023-02-22).md">03. 트랜젝션, 이상, 병행제어 (2023-02-22)</a></td>
 </tr>
 <tr>
-    <td><a href="">04. Redis, DB Lock, 장애와 회복기법 (2023-02-23)</a></td>
+    <td><a href="https://github.com/2214yj/CS-Study/blob/main/04%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/04.%20Redis%2C%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%2C%20%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%2C%20%ED%9A%8C%EB%B3%B5%EA%B8%B0%EB%B2%95%20(2023-02-23).md">04. Redis, DB Lock, 장애와 회복기법 (2023-02-23)</a></td>
 </tr>
 <tr>
     <td><b>도커 & 쿠버네티스</b><br>(스터디장: 지유리)</td>
